@@ -1,0 +1,12 @@
+/** @format */
+
+@media (max-width: 1024px) {
+	#meal-search main nav.filter-dishes ul li a {
+		font-size: small;
+		padding: 0.5rem 1.252rem;
+	}
+	#meal-search main nav.filter-food ul li a {
+		font-size: small;
+		padding: 0.5rem 0.9rem;
+	}
+}
